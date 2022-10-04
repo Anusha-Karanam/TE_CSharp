@@ -46,7 +46,7 @@ namespace TE_CSharp
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error occurred! Please try again.");
+                Console.WriteLine("Error occurred! Please try again.");//error message
             }
             finally
             {
