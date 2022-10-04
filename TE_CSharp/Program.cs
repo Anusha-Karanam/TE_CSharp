@@ -35,7 +35,7 @@ namespace Basic_Concepts
             Console.WriteLine("I am {0} and my age is {1}", s, a);
             Console.WriteLine("----------------------------------------");
 
-            //Accept input at runtime
+            //Accept inputs at runtime
             int empid;
             string empname;
             Console.WriteLine("Employee Details");
