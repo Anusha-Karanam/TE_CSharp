@@ -50,7 +50,7 @@ namespace TE_CSharp
             }
             finally
             {
-                Console.WriteLine("Thank you");
+                Console.WriteLine("Thank you");//end message
             }
 
         }
