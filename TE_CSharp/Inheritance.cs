@@ -9,6 +9,7 @@ namespace TE_CSharp
 {
     internal class Inheritance
     {
+        //declartion of variables
         public static void Main()
         {
 
