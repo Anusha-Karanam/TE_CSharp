@@ -21,7 +21,7 @@ namespace TE_CSharp
                 Console.WriteLine("Multiplication table of {0}", i);
                 for (int j = 1; j <= 10; j++)
                 {
-                    Console.WriteLine($"{i} x {j} = {i * j}");
+                    Console.WriteLine($"{i} x {j} = {i * j}");//Multiplication of 2 elements
                 }
             }
             Console.WriteLine();
