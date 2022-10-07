@@ -19,7 +19,7 @@ namespace TE_CSharp
             if (File.Exists(path))
             {
                 //Copy file
-              // File.Copy(path, copypath);
+              //File.Copy(path, copypath);
 
                 //Move the file
                 //File.Move(copypath, movepath);
@@ -29,7 +29,7 @@ namespace TE_CSharp
             }
             else
             {
-                Console.WriteLine("File does not Exist");
+                Console.WriteLine("File does not Exist");//file does not exist
             }
         }
     }
