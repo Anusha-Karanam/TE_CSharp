@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TE_CSharp
 {
+    //Generics
     internal class Generics
     {
 
