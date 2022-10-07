@@ -44,7 +44,7 @@ namespace TE_CSharp
             }
 
         }
-
+        //display employee details
         public void displayData(int id, string name, int salary, string designation)
         {
             Console.WriteLine();
