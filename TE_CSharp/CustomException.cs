@@ -26,11 +26,11 @@ namespace TE_CSharp
                 age = Convert.ToInt32(Console.ReadLine());
                 if (age < 22)
                 {
-                    throw (new AgeException("You are Not eligible to register the course"));
+                    throw (new AgeException("You are Not eligible to register the course"));//check no eligible
                 }
                 else
                 {
-                    Console.WriteLine("You are Eligible to register the course");
+                    Console.WriteLine("You are Eligible to register the course");//check eligible
                 }
             }
             catch (AgeException e)
