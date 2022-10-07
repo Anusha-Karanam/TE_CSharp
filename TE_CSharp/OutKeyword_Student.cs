@@ -21,6 +21,7 @@ namespace TE_CSharp
             Console.WriteLine($"Student name:{sname}");
             Console.WriteLine($"Student Department:{sdep}");
         }
+        //display student input details
         public static void student(out int sid, out string sname, out string sdep)
         {
             sid = 54;
