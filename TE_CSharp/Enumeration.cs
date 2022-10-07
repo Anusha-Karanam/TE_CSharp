@@ -11,7 +11,7 @@ namespace TE_CSharp
         enum CSharp_concepts
         {
             Basics,
-            Methods = 10,
+            Methods = 100,
             ControlStmts,
             OOPS = 20,
             Delegates = 40,
