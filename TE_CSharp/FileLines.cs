@@ -11,6 +11,7 @@ namespace TE_CSharp
     {
         public static void Main()
         {
+            //path of file
             string path = "C:\\Users\\EI13153\\Desktop\\CSharp\\tables.txt";
             string[] content;
 
