@@ -32,7 +32,7 @@ namespace TE_CSharp
                 {6,8}//array[6,8]
             };
             //matrix 3
-            int[,] matrix3 = new int[2,2];
+            int[,] matrix3 = new int[2,2];//array[2,2]
             //rows
             for (int row = 0; row < matrix3.GetLength(0); row++) 
             {
