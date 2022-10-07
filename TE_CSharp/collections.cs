@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace TE_CSharp
 {
+    //Collections
     internal class collections
     {
         public static void Dictionary_Demo()
@@ -60,7 +61,7 @@ namespace TE_CSharp
             }
             Console.WriteLine("-----------------------------------------");
         }
-
+        //Hashtable
         public static void Hashtable_Demo()
         {
             Hashtable ht = new Hashtable();
