@@ -39,6 +39,7 @@ namespace TE_CSharp
     }
     internal class FileReadTable
     {
+        //Reading and writing table contents
         public static void Main()
         {
             Table table = new Table();
