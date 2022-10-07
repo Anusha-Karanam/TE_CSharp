@@ -14,7 +14,7 @@ namespace TE_CSharp
            
             Conditional();
             //INVOKE INSTANCE METHOD WITHIN THE SAME CLASS WHERE THE MAIN METHOD IS PRESENT
-            ControlStmts c = new ControlStmts(); // instance created for the class
+            ControlStmts c = new ControlStmts(); // instance created for the classes
             c.Looping();
 
         }
