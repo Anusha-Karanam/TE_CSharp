@@ -16,9 +16,9 @@ namespace TE_CSharp
                 Console.WriteLine("Enter mobile number");
                 string mbl = Console.ReadLine();
                 if (MobileValidation(mbl))
-                    Console.WriteLine("Entered phone number is Valid");
+                    Console.WriteLine("Entered phone number is Valid");//check valid
                 else
-                    Console.WriteLine("Entered phone number is Invalid");
+                    Console.WriteLine("Entered phone number is Invalid");//check invalid
                 Console.WriteLine();
             }
         }
