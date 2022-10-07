@@ -46,6 +46,7 @@ namespace TE_CSharp
     }
     internal class Delegates
     {
+        //Fetch bank name, interest rate 
         public static void Main()
         {
             InterestRate interest = new InterestRate();
